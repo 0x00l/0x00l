@@ -20,7 +20,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=HbTigerGe&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
